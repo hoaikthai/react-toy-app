@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-toy-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-toy-app/static/js/main.61ccd295.chunk.js",
+    "main.js.map": "/react-toy-app/static/js/main.61ccd295.chunk.js.map",
+    "runtime-main.js": "/react-toy-app/static/js/runtime-main.7e58697e.js",
+    "runtime-main.js.map": "/react-toy-app/static/js/runtime-main.7e58697e.js.map",
+    "static/js/2.8ccda489.chunk.js": "/react-toy-app/static/js/2.8ccda489.chunk.js",
+    "static/js/2.8ccda489.chunk.js.map": "/react-toy-app/static/js/2.8ccda489.chunk.js.map",
+    "static/js/3.49b24cc3.chunk.js": "/react-toy-app/static/js/3.49b24cc3.chunk.js",
+    "static/js/3.49b24cc3.chunk.js.map": "/react-toy-app/static/js/3.49b24cc3.chunk.js.map",
+    "index.html": "/react-toy-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-toy-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ccda489.chunk.js.LICENSE.txt": "/react-toy-app/static/js/2.8ccda489.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e58697e.js",
+    "static/js/2.8ccda489.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61ccd295.chunk.js"
+  ]
+}
