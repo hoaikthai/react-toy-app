@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-toy-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-toy-app/static/js/main.61ccd295.chunk.js",
-    "main.js.map": "/react-toy-app/static/js/main.61ccd295.chunk.js.map",
+    "main.js": "/react-toy-app/static/js/main.adaad1eb.chunk.js",
+    "main.js.map": "/react-toy-app/static/js/main.adaad1eb.chunk.js.map",
     "runtime-main.js": "/react-toy-app/static/js/runtime-main.7e58697e.js",
     "runtime-main.js.map": "/react-toy-app/static/js/runtime-main.7e58697e.js.map",
     "static/js/2.8ccda489.chunk.js": "/react-toy-app/static/js/2.8ccda489.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e58697e.js",
     "static/js/2.8ccda489.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.61ccd295.chunk.js"
+    "static/js/main.adaad1eb.chunk.js"
   ]
 }
