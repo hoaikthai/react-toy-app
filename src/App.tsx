@@ -6,10 +6,10 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/heavy-table">
+        <Route path="/react-toy-app/heavy-table">
           <HeavyTable />
         </Route>
-        <Route path="/">
+        <Route path="/react-toy-app">
           <Home />
         </Route>
       </Switch>

@@ -4,7 +4,7 @@ import styled from "styled-components"
 export const Home = () => {
   return (
     <Root>
-      <Link to="/heavy-table">Heavy table</Link>
+      <Link to="/react-toy-app/heavy-table">Heavy table</Link>
     </Root>
   )
 }
