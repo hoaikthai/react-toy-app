@@ -1,12 +1,18 @@
-import { ReactNode, useMemo } from "react"
+import { memo, ReactNode } from "react"
 
 export type MemoProps = {
   deps?: any[]
   children?: ReactNode | ReactNode[]
 }
 
-export const Memo = (props: MemoProps) => {
+const Children = (props: MemoProps) => {
+  /* eslint-disable-next-line @typescript-eslint/no-unused-vars */
   const { deps = [], children } = props
 
-  return useMemo(() => <>{children}</>, [...deps])
+  return <>{children}</>
 }
+
+export const Memo = memo(
+  Children,
+  (oldProps, newProps) => JSON.stringify(oldProps.deps) === JSON.stringify(newProps.deps)
+)
